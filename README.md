@@ -8,6 +8,7 @@ int convertTo1D(int i, int j, int k)
    return i*m*p + j*p + k;
 }
 ```
+> Complexity of O(1)
 
 ## Input Matrix
 ```cpp
